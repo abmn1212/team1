@@ -15,7 +15,7 @@ public class DescendingOrder
         {
             a[i] = s.nextInt();
         }
-        for (int i = 0; i < n; i++) 
+        for (int i = 0; i < n; i++) //test
         {
             for (int j = i + 1; j < n; j++) 
             {
