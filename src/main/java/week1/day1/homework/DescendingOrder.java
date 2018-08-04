@@ -32,6 +32,7 @@ public class DescendingOrder
         {
             System.out.print(a[i] + ",");
         }
-        System.out.print(a[n - 1]);
+        System.out.print(a[n - 1]); // com
+        j++
     }
 }
